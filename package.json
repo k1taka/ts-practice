@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/k1taka/ts-practice/issues"
   },
-  "homepage": "https://github.com/k1taka/ts-practice#readme"
+  "homepage": "https://github.com/k1taka/ts-practice#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
