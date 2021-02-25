@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/k1taka/ts-practice#readme",
   "devDependencies": {
+    "ts-node": "^9.1.1",
     "typescript": "^3.7.5"
   }
 }
